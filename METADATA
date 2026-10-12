@@ -1,0 +1,17 @@
+name: "attrs"
+description: "Classes Without Boilerplate"
+third_party {
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2026
+    month: 10
+    day: 12
+  }
+  homepage: "https://www.attrs.org/"
+  identifier {
+    type: "Git"
+    value: "https://github.com/python-attrs/attrs"
+    version: "7bfc49e9b22d5ba25b6e429524c3d49fee27cb36"
+    closest_version: "26.1.0"
+  }
+}

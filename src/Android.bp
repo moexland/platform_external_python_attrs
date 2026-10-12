@@ -1,0 +1,11 @@
+package {
+    default_applicable_licenses: ["external_python_attrs_license"],
+}
+
+python_library_host {
+    name: "py-attrs",
+    srcs: [
+        "attr/**/*.py",
+        "attrs/**/*.py",
+    ],
+}
